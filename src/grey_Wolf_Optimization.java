@@ -5,6 +5,11 @@ import java.io.InputStream;
 import java.util.*;
 import org.apache.poi.ss.usermodel.*;
 import org.apache.poi.xssf.usermodel.*;
+// Apache POI library for working with Excel files in Java
+
+
+
+
 class DataAndSize {
     private double[][] data;
     private int numRows;
