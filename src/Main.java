@@ -74,7 +74,7 @@ public class Main {
 
 
 
-////         You can also access the optimized solution's variables if needed
+        // You can also access the optimized solution's variables if needed
 //         double[] optimizedSolution = optimizer.getOptimizedSolution();
 //         System.out.println("Optimized solution: " + Arrays.toString(optimizedSolution));
  }
