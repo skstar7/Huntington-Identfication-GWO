@@ -34,7 +34,7 @@ class DataAndSize {
     }
 }
 
-
+//Grey wolf optimization algorithm starts
 public class grey_Wolf_Optimization {
     double r1;
     double r2;
